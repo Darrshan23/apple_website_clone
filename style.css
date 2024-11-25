@@ -54,3 +54,52 @@ nav {
 .nav-items i:hover {
     color: white;
 }
+
+/*Nav2*/
+.nav2 {
+    color:white;
+    background-color: 1d1d1f;
+    height: 45px;
+    margin: auto;
+    width: 100vw;
+    padding-left: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    padding-top: 45px;
+}
+
+.nav2 a {
+    color: 2997ff;
+    padding: 5px;
+    text-decoration: none;
+}
+
+/* Nav3
+.nav3 {
+    height: 100vh;
+    position: absolute;
+    top: -100%;
+    width:100%;
+    z-index: 99;
+    transition: all cubic-bezier(0.19,1,0.22,1) 2s;
+    pointer-events: none;
+}
+
+.nav-top {
+    height: 50vh;
+    background-color: rgb(21,20,20);
+}
+
+.nav-bottom {
+    height: 45vh;
+    background: rgba(255,255,255,0);
+    box-shadow: 0 8px 32px 0 rgba(0,0,0,0.185);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(4px);
+}
+
+.nav-top-store {    
+    display: flex;
+} */
